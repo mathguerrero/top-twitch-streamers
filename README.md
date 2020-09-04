@@ -19,7 +19,7 @@ Features:
 - Game 3 (Third most played game)
 
 ## EDA
-<img src='imgs/corr.png' "width=500" height="500">
+<img src='imgs/corr.png' width="500" height="500">
                                                 
 ##### Descriptive statistics of numerical features:
 <img src='imgs/table.png'> <br>
@@ -32,11 +32,11 @@ Features:
 <img src='imgs/tfvsav.png' width="1000" height="500>
 
 #### Average Stream Duration
-<img src='imgs/avg_duration.png' width="500" height="750>
+<img src='imgs/avg_duration.png' width="500" height="750">
 After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true **average stream duration** that I found based on this dataset is **6.3 hours**
 
 #### Games
-<img src='imgs/games.png' width="300" height="300>
+<img src='imgs/games.png' width="300" height="300">
 Not too surprising that 'Fall Guys' and 'Among Us' are in the top 10 as they can be considered the current "flavor of the week". 'Just Chatting' is vague due to the fact that it is used (mostly) whenever a streamer is not gaming; either talking to the chat OR reacting to content (usually YouTube), but again, this could be for any number of topics. Industry giants (both old and new) make up the rest of the list, all except for Minecraft and GTAV can be considered as "competetive" games.
 
 ## Findings
