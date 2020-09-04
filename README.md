@@ -20,18 +20,18 @@ Features:
 
 ### EDA
 Descriptive statistics of numerical features:
-<img src='img/table.png'>
-<img src='img/corr.png'>
+<img src='imgs/table.png'>
+<img src='imgs/corr.png'>
 
 Boolean features:
-<img src='img/partner.png'>
-<img src='img/mature.png'>
+<img src='imgs/partner.png'>
+<img src='imgs/mature.png'>
 
 Checking total followers vs average viewers based on corr. table:
-<img src='img/tfvsav.png'>
+<img src='imgs/tfvsav.png'>
 
 ##### Average Stream Duration
-<img src='img/avg_duration.png'>
+<img src='imgs/avg_duration.png'>
 After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true **average stream duration** that I found based on this dataset is **6.3 hours**
 
 ##### Games
