@@ -33,7 +33,7 @@ Features:
 
 #### Average Stream Duration
 <img src='imgs/avg_duration.png' width="500" height="750">
-After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true **average stream duration** that I found based on this dataset is **6.3 hours**.
+After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true average stream duration that I found based on this dataset is 6.3 hours.
 
 #### Games
 <img src='imgs/games.png' width="300" height="300">
