@@ -29,7 +29,7 @@ Features:
 <img src='imgs/mature.png' width="300" height="300">
 
 ##### Checking total followers vs average viewers based on corr. table:
-<img src='imgs/tfvsav.png' width="1000" height="500>
+<img src='imgs/tfvsav.png' width="1000" height="500">
 
 #### Average Stream Duration
 <img src='imgs/avg_duration.png' width="500" height="750">
