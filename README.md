@@ -33,7 +33,7 @@ Features:
 
 #### Average Stream Duration
 <img src='imgs/avg_duration.png' width="500" height="750">
-After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true **average stream duration** that I found based on this dataset is **6.3 hours**
+After graphing the average stream length of the top 100 streamers, I noticed that there were 8 outliers that all exceeded a 20 hour average. I calculated an average for the entire dataset that excluded about 50 outliers that had over a 24 average length. Most of these outlier channels were for organizations or groups such as "ESL_CSGO", "BeyondTheSummit", and "Monstercat" to name a few. The true **average stream duration** that I found based on this dataset is **6.3 hours**.
 
 #### Games
 <img src='imgs/games.png' width="300" height="300">
@@ -42,8 +42,8 @@ Not too surprising that 'Fall Guys' and 'Among Us' are in the top 10 as they can
 ## Findings
 Based on the EDA conducted on this dataset, there are clear trends among top streamers that can be adapted by up and coming creators. Simplified, being a top streamer is a job. The average stream length for the top 1000 alone was 6 hours, those among the top 100 trend towards a 8 hour average. Secondly, get partnered. 95% of the top 1000 were partnered, which allows viewers to subsribe and provides the streamer with a steady income. While the game findings illustrate the hottest and most popular games, it fails to acknowledge niche audiences for games such as "Super Smash Bros. Melee". Nearly half of the channels had "English" as their language. 
 
-## Code and Resources:
-- **Python Version**: 3.8 
+## Environment and Resources:
+- **Python**: 3.8 
 - **Packages**: pandas, numpy, matplotlib, seaborn, selenium
 - [Selenium](https://selenium-python.readthedocs.io/)
 - [Sully Gnome](https://www.sullygnome.com)
